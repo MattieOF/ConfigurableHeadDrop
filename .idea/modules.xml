@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/ConfigurableHeadDrop.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.test.iml" />
+    </modules>
+  </component>
+</project>

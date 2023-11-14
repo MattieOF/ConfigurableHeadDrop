@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "configurableheaddrop",
+  "version": "${version}",
+
+  "name": "Configurable Head Drop",
+  "description": "Allows for charged creepers to drop more than 1 head (controlled by a new game rule).",
+  "authors": [
+    "Mattie"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/configurable-head-drop",
+    "sources": "https://github.com/mattieof/ConfigurableHeadDrop/",
+    "issues": "https://github.com/mattieof/ConfigurableHeadDrop/issues/"
+  },
+
+  "license": "MIT",
+  "icon": "assets/configurableheaddrop/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.mattware.configurableheaddrop.fabric.ConfigurableHeadDropFabric"]
+  },
+  "mixins": [
+    "configurableheaddrop-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.24",
+    "minecraft": ">=1.20.2"
+  }
+}
