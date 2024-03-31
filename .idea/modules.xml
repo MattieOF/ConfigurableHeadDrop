@@ -9,6 +9,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/ConfigurableHeadDrop.fabric.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/ConfigurableHeadDrop.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.mattware.ConfigurableHeadDrop.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dev.mattware.ConfigurableHeadDrop.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dev.mattware.ConfigurableHeadDrop.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dev.mattware.ConfigurableHeadDrop.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dev.mattware.ConfigurableHeadDrop.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/dev.mattware.ConfigurableHeadDrop.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/dev.mattware.ConfigurableHeadDrop.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/dev.mattware.ConfigurableHeadDrop.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/dev.mattware.ConfigurableHeadDrop.forge.test.iml" />
     </modules>
   </component>
 </project>

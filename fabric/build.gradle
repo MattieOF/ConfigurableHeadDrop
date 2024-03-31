@@ -1,5 +1,5 @@
 plugins {
-    id "com.github.johnrengelman.shadow" version "7.1.2"
+    id "com.github.johnrengelman.shadow" version "8.1.1"
 }
 
 architectury {
@@ -20,6 +20,17 @@ dependencies {
 
     common(project(path: ":common", configuration: "namedElements")) { transitive false }
     shadowCommon(project(path: ":common", configuration: "transformProductionFabric")) { transitive false }
+
+    // Make a collection of all api modules we wish to use
+    Set<String> apiModules = [
+            "fabric-api-base",
+            "fabric-resource-loader-v0"
+    ]
+
+    // Add each module as a dependency
+    apiModules.forEach {
+        include(modImplementation(fabricApi.module(it, fabric_version)))
+    }
 }
 
 processResources {
